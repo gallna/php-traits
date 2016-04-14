@@ -1,0 +1,14 @@
+{
+    "name": "gallna/php-traits",
+    "authors": [
+        {
+            "name": "Tomasz Jonik",
+            "email": "tom.jonik@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kemer\\Traits\\": "src/Kemer/Traits"
+        }
+    }
+}
